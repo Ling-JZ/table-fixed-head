@@ -1,6 +1,6 @@
 # table-fixed-head
 表格头部或左侧固定
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>new document</title>
@@ -36,47 +36,6 @@
     <th style="text-align: center; width: 80px">化学</th>
     <th style="text-align: center; width: 80px">生物</th>
    </tr>
-   <!--
-        <tr>
-        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            姓名
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            班级
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            语文
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            数学
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            英语
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            政治
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            历史
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            地理
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            物理
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            化学
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            生物
-                        </th>
-                        <th style="width: 80px; text-align: center;" _mce_style="width: 80px; text-align: center;">
-                            总分
-                        </th>
-                    
-        </tr>
-    -->
   </thead>
   <tbody>
    <!-- 数据行 -->
